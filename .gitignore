@@ -1,0 +1,8 @@
+.env
+.venv
+
+quotes.db
+__pycache__/
+.DS_Store
+normalise_log.csv
+uploads/

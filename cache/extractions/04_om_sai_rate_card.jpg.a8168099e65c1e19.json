@@ -1,0 +1,439 @@
+{
+ "file": "04_om_sai_rate_card.jpg",
+ "model": "claude-sonnet-5",
+ "created_at": "2026-09-24T21:24:48+00:00",
+ "usage": {
+  "input_tokens": 8251,
+  "output_tokens": 6731
+ },
+ "extraction": {
+  "terms": {
+   "vendor_name": "OM SAI CARTON WORKS",
+   "quote_reference": "NHA/PKG/RFQ/2026/031",
+   "quote_date": null,
+   "currency": "INR",
+   "freight": "Freight by party",
+   "discount_text": null,
+   "discount_pct": null,
+   "gst_text": "GST 18% extra",
+   "payment_terms": "Payment: 15 days",
+   "validity": "Validity: till 31-Oct-2026",
+   "delivery": null,
+   "source_note": "Footer notes at bottom of rate card: '* Rates per piece, ex-works Vapi. GST 18% extra. Freight by party.' / '* Payment: 15 days. Validity: till 31-Oct-2026.'"
+  },
+  "lines": [
+   {
+    "sku_id": "CB-001",
+    "quoted": true,
+    "price": 6.81,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 1: 'Dry iron 280x130x120 3 18BF 6.81'"
+   },
+   {
+    "sku_id": "CB-002",
+    "quoted": true,
+    "price": 8.5,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 2: 'Steam iron 300x150x140 3 18BF 8.50'"
+   },
+   {
+    "sku_id": "CB-003",
+    "quoted": true,
+    "price": 12.72,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 3: 'Electric kettle 1.5L 230x200x250 3 18BF 12.72'"
+   },
+   {
+    "sku_id": "CB-004",
+    "quoted": true,
+    "price": 6.96,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 4: 'Hand blender 380x110x100 3 18BF 6.96'"
+   },
+   {
+    "sku_id": "CB-005",
+    "quoted": true,
+    "price": 11.63,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 5: 'Sandwich maker 270x250x110 3 18BF 11.63'"
+   },
+   {
+    "sku_id": "CB-006",
+    "quoted": true,
+    "price": 9.14,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 6: 'Hair dryer 250x200x90 3 18BF 9.14'"
+   },
+   {
+    "sku_id": "CB-007",
+    "quoted": true,
+    "price": 5.71,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.9,
+    "matched_by": "size + ply, generic label 'Small'",
+    "source_note": "Row 7: 'Small 200x150x100 3 18BF 5.71'"
+   },
+   {
+    "sku_id": "CB-008",
+    "quoted": true,
+    "price": 9.87,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.9,
+    "matched_by": "size + ply, generic label 'Medium'",
+    "source_note": "Row 8: 'Medium 300x200x150 3 18BF 9.87'"
+   },
+   {
+    "sku_id": "CB-009",
+    "quoted": true,
+    "price": 14.79,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 9: 'Mixer jar set 320x240x200 3 18BF 14.79'"
+   },
+   {
+    "sku_id": "CB-010",
+    "quoted": true,
+    "price": 13.49,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.85,
+    "matched_by": "size + ply, generic label 'Small'",
+    "source_note": "Row 10: 'Small 350x250x150 3 18BF 13.49'"
+   },
+   {
+    "sku_id": "CB-011",
+    "quoted": true,
+    "price": 21.88,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.85,
+    "matched_by": "size + ply, generic label 'Medium'",
+    "source_note": "Row 11: 'Medium 450x350x200 3 18BF 21.88'"
+   },
+   {
+    "sku_id": "CB-012",
+    "quoted": true,
+    "price": 38.29,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "6-piece master pack per vendor description"
+    ],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 12: 'Dry iron (6 nos) 420x290x260 5 20BF 38.29'"
+   },
+   {
+    "sku_id": "CB-013",
+    "quoted": true,
+    "price": 56.43,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "4-piece master pack per vendor description"
+    ],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 13: 'Kettle (4 nos) 470x410x260 5 20BF 56.43'"
+   },
+   {
+    "sku_id": "CB-014",
+    "quoted": true,
+    "price": 37.58,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.9,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 14: printed '40.59' struck through, hand-corrected to '37.58' in blue ink: 'Mixer grinder 750W 420x260x300 5 20BF 40.59(struck) 37.58'"
+   },
+   {
+    "sku_id": "CB-015",
+    "quoted": true,
+    "price": 41.69,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 15: 'Mixer grinder 1000W 450x280x320 5 20BF 41.69'"
+   },
+   {
+    "sku_id": "CB-016",
+    "quoted": true,
+    "price": 33.04,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 16: 'Induction cooktop 400x330x120 5 20BF 33.04'"
+   },
+   {
+    "sku_id": "CB-017",
+    "quoted": true,
+    "price": 55.31,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 17: 'Air cooler spares cart 520x380x300 5 20BF 55.31'"
+   },
+   {
+    "sku_id": "CB-018",
+    "quoted": true,
+    "price": 39.1,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 18: 'Table fan 400mm 460x180x460 5 20BF 39.10'"
+   },
+   {
+    "sku_id": "CB-019",
+    "quoted": true,
+    "price": 46.62,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 19: 'Pedestal fan 700x200x350 5 20BF 46.62'"
+   },
+   {
+    "sku_id": "CB-020",
+    "quoted": true,
+    "price": 76.93,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.85,
+    "matched_by": "size + ply, generic label 'Large'",
+    "source_note": "Row 20: 'Large 600x400x400 5 20BF 76.93'"
+   },
+   {
+    "sku_id": "CB-021",
+    "quoted": true,
+    "price": 145.88,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "4-piece master pack per vendor description"
+    ],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 21: 'Ceiling fan (4 nos) 560x480x400 7 22BF 145.88'"
+   },
+   {
+    "sku_id": "CB-022",
+    "quoted": true,
+    "price": 137.91,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 22: 'OTG 28L 600x450x420 7 22BF 137.91'"
+   },
+   {
+    "sku_id": "CB-023",
+    "quoted": true,
+    "price": 147.55,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [],
+    "confidence": 0.95,
+    "matched_by": "size + ply + description",
+    "source_note": "Row 23: 'Water heater 15L 480x460x560 7 22BF 147.55'"
+   },
+   {
+    "sku_id": "CB-024",
+    "quoted": false,
+    "price": null,
+    "currency": null,
+    "unit": null,
+    "pack_size": null,
+    "tax_included": null,
+    "conditions": [],
+    "confidence": 0.9,
+    "matched_by": "not matched - excluded per vendor footnote",
+    "source_note": "Bottom footnote: '* Die-cut mailers & 800mm export carton: not in our range.' No 800x600x500 export master listed on rate card."
+   },
+   {
+    "sku_id": "CB-025",
+    "quoted": false,
+    "price": null,
+    "currency": null,
+    "unit": null,
+    "pack_size": null,
+    "tax_included": null,
+    "conditions": [],
+    "confidence": 0.9,
+    "matched_by": "not matched - excluded per vendor footnote",
+    "source_note": "Bottom footnote: '* Die-cut mailers & 800mm export carton: not in our range.' Vendor's rate card lists only RSC-type cartons, no die-cut mailer boxes."
+   },
+   {
+    "sku_id": "CB-026",
+    "quoted": false,
+    "price": null,
+    "currency": null,
+    "unit": null,
+    "pack_size": null,
+    "tax_included": null,
+    "conditions": [],
+    "confidence": 0.9,
+    "matched_by": "not matched - excluded per vendor footnote",
+    "source_note": "Bottom footnote: '* Die-cut mailers & 800mm export carton: not in our range.' Vendor's rate card lists only RSC-type cartons, no die-cut mailer boxes."
+   },
+   {
+    "sku_id": "CB-027",
+    "quoted": true,
+    "price": 20.14,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Buyer SKU is priced per sheet; vendor rate card states 'Rates per piece' - unit basis may not match exactly"
+    ],
+    "confidence": 0.75,
+    "matched_by": "size + ply, description 'Pallet 1000x800'",
+    "source_note": "Row 24: 'Pallet 1000x800 1000x800 3 18BF 20.14'"
+   },
+   {
+    "sku_id": "CB-028",
+    "quoted": true,
+    "price": 55.28,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Buyer SKU is priced per sheet; vendor rate card states 'Rates per piece' - unit basis may not match exactly"
+    ],
+    "confidence": 0.75,
+    "matched_by": "size + ply, description 'Pallet 1200x1000'",
+    "source_note": "Row 25: 'Pallet 1200x1000 1200x1000 5 20BF 55.28'"
+   },
+   {
+    "sku_id": "CB-029",
+    "quoted": true,
+    "price": 10.39,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Buyer SKU is priced per set; vendor labels item 'Jar set' priced per piece"
+    ],
+    "confidence": 0.8,
+    "matched_by": "size + ply + description 'Jar set'",
+    "source_note": "Row 26: 'Jar set 400x300x200 3 18BF 10.39'"
+   },
+   {
+    "sku_id": "CB-030",
+    "quoted": true,
+    "price": 7.39,
+    "currency": "INR",
+    "unit": "per pc",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Buyer SKU is priced per set; vendor labels item 'Kettle master' priced per piece"
+    ],
+    "confidence": 0.8,
+    "matched_by": "size + ply + description 'Kettle master'",
+    "source_note": "Row 27: 'Kettle master 470x410x260 3 18BF 7.39'"
+   }
+  ],
+  "unmatched_lines": [],
+  "warnings": [
+   "Row 14 (Mixer grinder 750W) price of 40.59 was struck through and hand-corrected to 37.58 in blue ink; corrected value used but original crossed-out figure should be verified with vendor.",
+   "CB-024 (Export master carton 800x600x500), CB-025 and CB-026 (die-cut mailer boxes) are explicitly excluded per vendor's footnote 'Die-cut mailers & 800mm export carton: not in our range' - no pricing available from this vendor for these items.",
+   "CB-027/CB-028 (layer pads) and CB-029/CB-030 (partitions) are priced by buyer per 'sheet'/'set' respectively, but vendor's rate card states all rates are 'per piece' - confirm unit-of-measure equivalence before using these prices.",
+   "Items 10, 11, 20 on vendor's rate card are labeled only generically as 'Small'/'Medium'/'Large' without explicit product description; matched to buyer's e-commerce shipper SKUs by size and ply only - confirm with vendor.",
+   "No quote date is shown anywhere on the document."
+  ]
+ }
+}

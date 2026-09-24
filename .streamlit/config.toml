@@ -1,0 +1,3 @@
+[server]
+# Skips Streamlit's first-run email prompt. Open http://localhost:8501 in your browser yourself.
+headless = true

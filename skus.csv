@@ -1,0 +1,31 @@
+sku_id,description,item_type,ply,flute,paper_spec,bursting_factor,total_gsm,length_mm,width_mm,height_mm,printing,uom,annual_qty
+CB-001,Unit carton - Dry iron,RSC,3,B,150/120/150,18,474,280,130,120,1 colour,piece,180000
+CB-002,Unit carton - Steam iron,RSC,3,B,150/120/150,18,474,300,150,140,1 colour,piece,150000
+CB-003,Unit carton - Electric kettle 1.5L,RSC,3,B,150/120/150,18,474,230,200,250,2 colour,piece,220000
+CB-004,Unit carton - Hand blender,RSC,3,B,150/120/150,18,474,380,110,100,1 colour,piece,90000
+CB-005,Unit carton - Sandwich maker,RSC,3,B,150/120/150,18,474,270,250,110,2 colour,piece,80000
+CB-006,Unit carton - Hair dryer,RSC,3,B,150/120/150,18,474,250,200,90,2 colour,piece,60000
+CB-007,Spare parts carton - Small,RSC,3,B,150/120/150,18,474,200,150,100,Plain,piece,250000
+CB-008,Spare parts carton - Medium,RSC,3,B,150/120/150,18,474,300,200,150,Plain,piece,160000
+CB-009,Accessory carton - Mixer jar set,RSC,3,B,150/120/150,18,474,320,240,200,1 colour,piece,70000
+CB-010,E-commerce shipper - Small,RSC,3,B,150/120/150,18,474,350,250,150,Plain,piece,300000
+CB-011,E-commerce shipper - Medium,RSC,3,B,150/120/150,18,474,450,350,200,Plain,piece,200000
+CB-012,Master carton - Dry iron (6 nos),RSC,5,BC,180/120/150/120/180,20,858,420,290,260,1 colour,piece,30000
+CB-013,Master carton - Kettle (4 nos),RSC,5,BC,180/120/150/120/180,20,858,470,410,260,1 colour,piece,55000
+CB-014,Unit carton - Mixer grinder 750W,RSC,5,BC,180/120/150/120/180,20,858,420,260,300,2 colour,piece,140000
+CB-015,Unit carton - Mixer grinder 1000W,RSC,5,BC,180/120/150/120/180,20,858,450,280,320,2 colour,piece,90000
+CB-016,Unit carton - Induction cooktop,RSC,5,BC,180/120/150/120/180,20,858,400,330,120,2 colour,piece,110000
+CB-017,Air cooler spares carton,RSC,5,BC,180/120/150/120/180,20,858,520,380,300,1 colour,piece,25000
+CB-018,Unit carton - Table fan 400mm,RSC,5,BC,180/120/150/120/180,20,858,460,180,460,1 colour,piece,75000
+CB-019,Unit carton - Pedestal fan,RSC,5,BC,180/120/150/120/180,20,858,700,200,350,1 colour,piece,60000
+CB-020,E-commerce shipper - Large,RSC,5,BC,180/120/150/120/180,20,858,600,400,400,Plain,piece,90000
+CB-021,Master carton - Ceiling fan (4 nos),RSC,7,BCB,200/140/180/140/180/140/200,22,1369,560,480,400,1 colour,piece,20000
+CB-022,Unit carton - OTG 28L,RSC,7,BCB,200/140/180/140/180/140/200,22,1369,600,450,420,2 colour,piece,30000
+CB-023,Unit carton - Water heater 15L,RSC,7,BCB,200/140/180/140/180/140/200,22,1369,480,460,560,1 colour,piece,25000
+CB-024,Export master carton - Mixed,RSC,7,BCB,200/140/180/140/180/140/200,22,1369,800,600,500,Plain,piece,8000
+CB-025,Mailer box - Beard trimmer,DIECUT,3,E,180/100/150,18,475,250,180,70,4 colour,piece,120000
+CB-026,Mailer box - Accessory kit,DIECUT,3,E,180/100/150,18,475,300,220,80,4 colour,piece,80000
+CB-027,Layer pad - Pallet 1000x800,PAD,3,B,150/120/150,18,474,1000,800,,Plain,sheet,100000
+CB-028,Layer pad - Pallet 1200x1000,PAD,5,BC,180/120/150/120/180,20,858,1200,1000,,Plain,sheet,40000
+CB-029,Partition 4x3 cells - Jar set,PARTITION,3,B,150/120/150,18,474,400,300,200,Plain,set,50000
+CB-030,Partition 2x2 cells - Kettle master,PARTITION,3,B,150/120/150,18,474,470,410,260,Plain,set,55000

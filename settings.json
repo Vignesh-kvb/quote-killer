@@ -1,0 +1,9 @@
+{
+  "fx_to_inr": {
+    "INR": 1.0,
+    "USD": 88.0
+  },
+  "default_gst_pct": 18,
+  "low_confidence_below": 0.7,
+  "rsc_glue_flap_mm": 35
+}

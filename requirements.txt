@@ -1,0 +1,12 @@
+# Tested with Python 3.14. Exact versions so the demo behaves the same on another machine.
+streamlit==1.64.0        # the web app
+altair==6.3.0            # charts in the Analyst tab
+anthropic==1.8.0         # Claude API (extraction, RFx co-pilot, Analyst)
+pydantic==2.13.5         # validating Claude's structured output
+python-dotenv==1.2.3     # reads ANTHROPIC_API_KEY from .env
+pandas==3.0.6
+numpy==2.5.3
+openpyxl==3.1.5          # read vendor Excel files, write Excel exports
+python-docx==1.2.0       # read vendor Word files
+reportlab==5.0.1         # generate_data.py: vendor PDF
+pillow==12.3.0           # generate_data.py: rate-card photo

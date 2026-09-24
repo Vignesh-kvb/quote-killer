@@ -1,0 +1,506 @@
+{
+ "file": "01_shree_ganesh_quotation.xlsx",
+ "model": "claude-sonnet-5",
+ "created_at": "2026-09-24T21:19:41+00:00",
+ "usage": {
+  "input_tokens": 8463,
+  "output_tokens": 14411
+ },
+ "extraction": {
+  "terms": {
+   "vendor_name": "SHREE GANESH CORRUGATORS PVT. LTD.",
+   "quote_reference": "SGC/Q/26-27/0412",
+   "quote_date": "16-09-2026",
+   "currency": "INR",
+   "freight": "extra at actuals",
+   "discount_text": null,
+   "discount_pct": null,
+   "gst_text": "GST @ 18% extra as shown",
+   "payment_terms": "30 days from date of invoice",
+   "validity": "30 days",
+   "delivery": "7-10 days from receipt of PO & approved artwork",
+   "source_note": "Sheet 'Quotation', rows A41-A48 Terms & Conditions: '1. Rates are per box, ex-works Bhiwandi.' '2. GST @ 18% extra as shown.' '3. Freight: extra at actuals.' '4. Payment: 30 days from date of invoice.' '5. Delivery: 7-10 days from receipt of PO & approved artwork.' '7. Validity: 30 days.'"
+  },
+  "lines": [
+   {
+    "sku_id": "CB-001",
+    "quoted": true,
+    "price": 7.55,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 15000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour (Notes sheet A2), 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (11.0x5.1x4.7 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 38 (Sr.29, '3 Ply Box, 1 colour print', 11.0 x 5.1 x 4.7): Rate/Box Rs.7.55, GST 18% Rs.1.36, incl. GST Rs.8.91."
+   },
+   {
+    "sku_id": "CB-002",
+    "quoted": true,
+    "price": 8.66,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 12000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (11.8x5.9x5.5 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 35 (Sr.26, '3 Ply Box, 1 colour print', 11.8 x 5.9 x 5.5): Rate/Box Rs.8.66, GST 18% Rs.1.56, incl. GST Rs.10.22."
+   },
+   {
+    "sku_id": "CB-003",
+    "quoted": true,
+    "price": 13.05,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 18000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 2 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (9.1x7.9x9.8 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 34 (Sr.25, '3 Ply Box, 2 colour print', 9.1 x 7.9 x 9.8): Rate/Box Rs.13.05, GST 18% Rs.2.35, incl. GST Rs.15.40."
+   },
+   {
+    "sku_id": "CB-004",
+    "quoted": true,
+    "price": 7.3,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 7000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (15.0x4.3x3.9 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 37 (Sr.28, '3 Ply Box, 1 colour print', 15.0 x 4.3 x 3.9): Rate/Box Rs.7.30, GST 18% Rs.1.31, incl. GST Rs.8.61."
+   },
+   {
+    "sku_id": "CB-005",
+    "quoted": true,
+    "price": 13.12,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 6000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 2 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (10.6x9.8x4.3 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 30 (Sr.21, '3 Ply Box, 2 colour print', 10.6 x 9.8 x 4.3): Rate/Box Rs.13.12, GST 18% Rs.2.36, incl. GST Rs.15.48."
+   },
+   {
+    "sku_id": "CB-006",
+    "quoted": true,
+    "price": 9.92,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 5000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 2 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (9.8x7.9x3.5 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 33 (Sr.24, '3 Ply Box, 2 colour print', 9.8 x 7.9 x 3.5): Rate/Box Rs.9.92, GST 18% Rs.1.79, incl. GST Rs.11.71."
+   },
+   {
+    "sku_id": "CB-007",
+    "quoted": true,
+    "price": 6.07,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 20000"
+    ],
+    "confidence": 0.95,
+    "matched_by": "size + ply (7.9x5.9x3.9 in, 3 Ply, plain box)",
+    "source_note": "Sheet 'Quotation', row 39 (Sr.30, '3 Ply Box', 7.9 x 5.9 x 3.9): Rate/Box Rs.6.07, GST 18% Rs.1.09, incl. GST Rs.7.16."
+   },
+   {
+    "sku_id": "CB-008",
+    "quoted": true,
+    "price": 10.22,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 13000"
+    ],
+    "confidence": 0.95,
+    "matched_by": "size + ply (11.8x7.9x5.9 in, 3 Ply, plain box)",
+    "source_note": "Sheet 'Quotation', row 32 (Sr.23, '3 Ply Box', 11.8 x 7.9 x 5.9): Rate/Box Rs.10.22, GST 18% Rs.1.84, incl. GST Rs.12.06."
+   },
+   {
+    "sku_id": "CB-009",
+    "quoted": true,
+    "price": 15.18,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 5000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (12.6x9.4x7.9 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 29 (Sr.20, '3 Ply Box, 1 colour print', 12.6 x 9.4 x 7.9): Rate/Box Rs.15.18, GST 18% Rs.2.73, incl. GST Rs.17.91."
+   },
+   {
+    "sku_id": "CB-010",
+    "quoted": true,
+    "price": 13.5,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 25000"
+    ],
+    "confidence": 0.95,
+    "matched_by": "size + ply (13.8x9.8x5.9 in, 3 Ply, plain box)",
+    "source_note": "Sheet 'Quotation', row 28 (Sr.19, '3 Ply Box', 13.8 x 9.8 x 5.9): Rate/Box Rs.13.50, GST 18% Rs.2.43, incl. GST Rs.15.93."
+   },
+   {
+    "sku_id": "CB-011",
+    "quoted": true,
+    "price": 24.2,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 16000"
+    ],
+    "confidence": 0.95,
+    "matched_by": "size + ply (17.7x13.8x7.9 in, 3 Ply, plain box)",
+    "source_note": "Sheet 'Quotation', row 26 (Sr.17, '3 Ply Box', 17.7 x 13.8 x 7.9): Rate/Box Rs.24.20, GST 18% Rs.4.36, incl. GST Rs.28.56."
+   },
+   {
+    "sku_id": "CB-012",
+    "quoted": true,
+    "price": 38.55,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 2000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (16.5x11.4x10.2 in, 5 Ply)",
+    "source_note": "Sheet 'Quotation', row 21 (Sr.12, '5 Ply Box, 1 colour print', 16.5 x 11.4 x 10.2): Rate/Box Rs.38.55, GST 18% Rs.6.94, incl. GST Rs.45.49."
+   },
+   {
+    "sku_id": "CB-013",
+    "quoted": true,
+    "price": 54.39,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 4000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (18.5x16.1x10.2 in, 5 Ply)",
+    "source_note": "Sheet 'Quotation', row 17 (Sr.8, '5 Ply Box, 1 colour print', 18.5 x 16.1 x 10.2): Rate/Box Rs.54.39, GST 18% Rs.9.79, incl. GST Rs.64.18."
+   },
+   {
+    "sku_id": "CB-014",
+    "quoted": true,
+    "price": 37.38,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 11000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 2 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (16.5x10.2x11.8 in, 5 Ply)",
+    "source_note": "Sheet 'Quotation', row 22 (Sr.13, '5 Ply Box, 2 colour print', 16.5 x 10.2 x 11.8): Rate/Box Rs.37.38, GST 18% Rs.6.73, incl. GST Rs.44.11."
+   },
+   {
+    "sku_id": "CB-015",
+    "quoted": true,
+    "price": 44.39,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 7000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 2 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (17.7x11.0x12.6 in, 5 Ply)",
+    "source_note": "Sheet 'Quotation', row 20 (Sr.11, '5 Ply Box, 2 colour print', 17.7 x 11.0 x 12.6): Rate/Box Rs.44.39, GST 18% Rs.7.99, incl. GST Rs.52.38."
+   },
+   {
+    "sku_id": "CB-016",
+    "quoted": true,
+    "price": 33.62,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 9000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 2 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (15.7x13.0x4.7 in, 5 Ply)",
+    "source_note": "Sheet 'Quotation', row 19 (Sr.10, '5 Ply Box, 2 colour print', 15.7 x 13.0 x 4.7): Rate/Box Rs.33.62, GST 18% Rs.6.05, incl. GST Rs.39.67."
+   },
+   {
+    "sku_id": "CB-017",
+    "quoted": true,
+    "price": 57.48,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 2000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (20.5x15.0x11.8 in, 5 Ply)",
+    "source_note": "Sheet 'Quotation', row 16 (Sr.7, '5 Ply Box, 1 colour print', 20.5 x 15.0 x 11.8): Rate/Box Rs.57.48, GST 18% Rs.10.35, incl. GST Rs.67.83."
+   },
+   {
+    "sku_id": "CB-018",
+    "quoted": true,
+    "price": 40.78,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 6000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (18.1x7.1x18.1 in, 5 Ply)",
+    "source_note": "Sheet 'Quotation', row 23 (Sr.14, '5 Ply Box, 1 colour print', 18.1 x 7.1 x 18.1): Rate/Box Rs.40.78, GST 18% Rs.7.34, incl. GST Rs.48.12."
+   },
+   {
+    "sku_id": "CB-019",
+    "quoted": true,
+    "price": 49.56,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 5000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (27.6x7.9x13.8 in, 5 Ply)",
+    "source_note": "Sheet 'Quotation', row 18 (Sr.9, '5 Ply Box, 1 colour print', 27.6 x 7.9 x 13.8): Rate/Box Rs.49.56, GST 18% Rs.8.92, incl. GST Rs.58.48."
+   },
+   {
+    "sku_id": "CB-020",
+    "quoted": true,
+    "price": 72.04,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 7000"
+    ],
+    "confidence": 0.95,
+    "matched_by": "size + ply (23.6x15.7x15.7 in, 5 Ply, plain box)",
+    "source_note": "Sheet 'Quotation', row 15 (Sr.6, '5 Ply Box', 23.6 x 15.7 x 15.7): Rate/Box Rs.72.04, GST 18% Rs.12.97, incl. GST Rs.85.01."
+   },
+   {
+    "sku_id": "CB-021",
+    "quoted": true,
+    "price": 135.72,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 1000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (22.0x18.9x15.7 in, 7 Ply)",
+    "source_note": "Sheet 'Quotation', row 12 (Sr.3, '7 Ply Box, 1 colour print', 22.0 x 18.9 x 15.7): Rate/Box Rs.135.72, GST 18% Rs.24.43, incl. GST Rs.160.15."
+   },
+   {
+    "sku_id": "CB-022",
+    "quoted": true,
+    "price": 134.85,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 2000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 2 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (23.6x17.7x16.5 in, 7 Ply)",
+    "source_note": "Sheet 'Quotation', row 11 (Sr.2, '7 Ply Box, 2 colour print', 23.6 x 17.7 x 16.5): Rate/Box Rs.134.85, GST 18% Rs.24.27, incl. GST Rs.159.12."
+   },
+   {
+    "sku_id": "CB-023",
+    "quoted": true,
+    "price": 136.0,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 2000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 1 colour print applies"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply (18.9x18.1x22.0 in, 7 Ply)",
+    "source_note": "Sheet 'Quotation', row 13 (Sr.4, '7 Ply Box, 1 colour print', 18.9 x 18.1 x 22.0): Rate/Box Rs.136.00, GST 18% Rs.24.48, incl. GST Rs.160.48."
+   },
+   {
+    "sku_id": "CB-024",
+    "quoted": true,
+    "price": 211.23,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 1000"
+    ],
+    "confidence": 0.95,
+    "matched_by": "size + ply (31.5x23.6x19.7 in, 7 Ply, plain box)",
+    "source_note": "Sheet 'Quotation', row 10 (Sr.1, '7 Ply Box', 31.5 x 23.6 x 19.7): Rate/Box Rs.211.23, GST 18% Rs.38.02, incl. GST Rs.249.25."
+   },
+   {
+    "sku_id": "CB-025",
+    "quoted": true,
+    "price": 14.4,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 10000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 4 colour print applies"
+    ],
+    "confidence": 0.9,
+    "matched_by": "size + ply + description (die-cut mailer, 9.8x7.1x2.8 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 36 (Sr.27, '3 Ply Die-cut Mailer, 4 colour print', 9.8 x 7.1 x 2.8): Rate/Box Rs.14.40, GST 18% Rs.2.59, incl. GST Rs.16.99."
+   },
+   {
+    "sku_id": "CB-026",
+    "quoted": true,
+    "price": 17.03,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 6000",
+     "Printing plates/cylinders extra: Rs.3,500 per colour, 4 colour print applies"
+    ],
+    "confidence": 0.9,
+    "matched_by": "size + ply + description (die-cut mailer, 11.8x8.7x3.1 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 31 (Sr.22, '3 Ply Die-cut Mailer, 4 colour print', 11.8 x 8.7 x 3.1): Rate/Box Rs.17.03, GST 18% Rs.3.07, incl. GST Rs.20.10."
+   },
+   {
+    "sku_id": "CB-027",
+    "quoted": true,
+    "price": 21.37,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 8000"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply + description (3 Ply Sheet/Pad, 39.4x31.5 in)",
+    "source_note": "Sheet 'Quotation', row 24 (Sr.15, '3 Ply Sheet/Pad', 39.4 x 31.5): Rate/Box Rs.21.37, GST 18% Rs.3.85, incl. GST Rs.25.22. Note: vendor pricing column header 'Rate/Box' applied even though item is a sheet/pad."
+   },
+   {
+    "sku_id": "CB-028",
+    "quoted": true,
+    "price": 53.86,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 3000"
+    ],
+    "confidence": 0.92,
+    "matched_by": "size + ply + description (5 Ply Sheet/Pad, 47.2x39.4 in)",
+    "source_note": "Sheet 'Quotation', row 14 (Sr.5, '5 Ply Sheet/Pad', 47.2 x 39.4): Rate/Box Rs.53.86, GST 18% Rs.9.69, incl. GST Rs.63.55. Note: vendor pricing column header 'Rate/Box' applied even though item is a sheet/pad."
+   },
+   {
+    "sku_id": "CB-029",
+    "quoted": true,
+    "price": 11.34,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 4000"
+    ],
+    "confidence": 0.75,
+    "matched_by": "size + ply + description (partition, 15.7x11.8x7.9 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 27 (Sr.18, '3 Ply Partition (3x4 cells)', 15.7 x 11.8 x 7.9): Rate/Box Rs.11.34, GST 18% Rs.2.04, incl. GST Rs.13.38. Note: vendor describes cell grid as '3x4' while buyer SKU CB-029 specifies '4x3 cells' - dimensions match exactly, likely same partition with orientation naming difference; confirm with vendor."
+   },
+   {
+    "sku_id": "CB-030",
+    "quoted": true,
+    "price": 8.14,
+    "currency": "INR",
+    "unit": "per box",
+    "pack_size": 1,
+    "tax_included": false,
+    "conditions": [
+     "Min. Order Qty: 4000"
+    ],
+    "confidence": 0.93,
+    "matched_by": "size + ply + description (partition 2x2 cells, 18.5x16.1x10.2 in, 3 Ply)",
+    "source_note": "Sheet 'Quotation', row 25 (Sr.16, '3 Ply Partition (2x2 cells)', 18.5 x 16.1 x 10.2): Rate/Box Rs.8.14, GST 18% Rs.1.47, incl. GST Rs.9.61."
+   }
+  ],
+  "unmatched_lines": [],
+  "warnings": [
+   "All 30 buyer SKUs were matched to vendor line items by size (inches) and ply; no unmatched vendor lines remain.",
+   "Vendor pricing sheet shows 'Rate/Box (Rs.)' as ex-GST base price and a separate 'GST 18% (Rs.)' column plus 'Rate incl. GST (Rs.)'; per extraction rules the ex-GST 'Rate/Box' value was recorded with tax_included=false for all lines.",
+   "Vendor T&C item 6 states 'Quantity tolerance +/- 10%' applies generally to all quoted quantities/prices - not captured per-line, buyer should note this applies document-wide.",
+   "For printed SKUs, vendor Notes sheet states printing plates/cylinders are charged extra, one-time, Rs.3,500 per colour - this is not included in the per-box rate and should be added to landed cost calculations.",
+   "CB-029 vendor line describes the partition cell configuration as '3x4 cells' whereas the buyer SKU list specifies '4x3 cells'; dimensions match exactly (15.7x11.8x7.9 in / 400x300x200 mm) so likely the same item, but orientation/grid naming should be confirmed with vendor before order placement.",
+   "Vendor quotes for CB-027 and CB-028 (layer pads/sheets) and CB-029/CB-030 (partitions) use the same 'Rate/Box' column header as boxes; unit was recorded as written ('per box') though these are sheet/set items - buyer should confirm this rate basis directly with vendor if ambiguous."
+  ]
+ }
+}
