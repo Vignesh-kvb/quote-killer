@@ -1,5 +1,5 @@
 """
-app.py — Quote Killer buyer screen (Streamlit).
+app.py — RFx Analyst buyer screen (Streamlit).
 
 Tabs
   RFx           co-pilot chat + editable draft, simulated send, vendor replies in (folder or upload)
@@ -39,7 +39,7 @@ AMBER = "background-color: rgba(255, 176, 0, 0.35)"
 RED = "background-color: rgba(230, 60, 60, 0.30)"
 GREY = "color: rgba(128, 128, 128, 0.9)"
 
-st.set_page_config(page_title="Quote Killer", page_icon="📦", layout="wide")
+st.set_page_config(page_title="RFx Analyst", page_icon="📦", layout="wide")
 
 
 # ---------------------------------------------------------------------------
@@ -456,7 +456,7 @@ with st.sidebar:
                 del st.session_state[key]
             st.rerun()
 
-st.title("Quote Killer")
+st.title("RFx Analyst")
 fx = ", ".join(f"{k} ₹{v:g}" for k, v in settings["fx_to_inr"].items() if k != "INR")
 rfx_label = f"RFQ {sent_row['rfx_no']}" if sent_row else "No RFx sent yet"
 st.caption(f"{rfx_label} · prices compared as INR per piece/sheet/set, ex-GST, after stated discounts · "

@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "quote-killer",
+      "name": "rfx-analyst",
       "runtimeExecutable": ".venv/bin/streamlit",
       "runtimeArgs": ["run", "app.py", "--server.headless", "true", "--server.port", "8502"],
       "port": 8502

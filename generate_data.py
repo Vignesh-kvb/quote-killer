@@ -1,5 +1,5 @@
 """
-generate_data.py — fabricate the demo dataset for Quote Killer.
+generate_data.py — fabricate the demo dataset for RFx Analyst.
 
 Creates:
   skus.csv                     30 corrugated SKUs the buyer is sourcing (the RFx line items)

@@ -1,4 +1,4 @@
-# Quote Killer
+# RFx Analyst
 
 A prototype for the Aerchain take-home *"Kill the Quote Spreadsheet"*: a buyer drafts an RFx with an
 AI co-pilot, five vendors reply in whatever format they like, the system reads every reply into one

@@ -1,4 +1,4 @@
-# Quote Killer — Project Memory
+# RFx Analyst — Project Memory
 
 ## What this is
 A prototype for the Aerchain PM take-home assignment "Kill the Quote Spreadsheet".
@@ -72,7 +72,7 @@ questions in plain language to reach a defensible award decision.
   comparable price, flags, what vendor wrote, source note, numbered conversion steps, vendor terms, original doc
   (image/email shown inline, all downloadable).
 - Review Queue tab: only uncertain cells (needs_review first, then flagged/low confidence) with a "Why" column; row click -> same detail.
-- `.claude/launch.json` config "quote-killer" runs it on port 8501 for the preview browser.
+- `.claude/launch.json` config "rfx-analyst" runs it on port 8501 for the preview browser.
 - Known gap: the hand-corrected price (Om Sai CB-014) is not amber — extraction confidence 0.85 is above threshold and the
   model's warning lives at document level. Fix idea: add a per-line `needs_attention` reason to the extraction schema.
 
